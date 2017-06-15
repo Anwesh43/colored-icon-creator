@@ -19,3 +19,11 @@
 #### output image to apply red color
 
 <img src="https://github.com/Anwesh43/colored-icon-creator/blob/master/test/f.png">
+
+
+### Note
+
+#### Icon image must be a png which must have a transparent background
+
+#### use path.join(__dirname,fileName) as the fileName in the create function. You have to use the complete path of the image
+ 
